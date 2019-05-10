@@ -12,6 +12,6 @@ tags:
 **video test**
 
 ****
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gEiTM08ubtQ
+<a href="//www.youtube.com/watch?feature=player_embedded&v=gEiTM08ubtQ
 " target="_blank"><img src="http://img.youtube.com/vi/gEiTM08ubtQ/0.jpg" 
 alt="video test" width="240" height="180" border="10" /></a>
