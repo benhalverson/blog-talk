@@ -2,6 +2,10 @@
   "extends": [
     "config:base"
   ],
+  "automerge": true,
+  "major": {
+    "automerge": false
+  }
   "rangeStrategy": "replace",
   "lockFileMaintenance": {
     "enabled": true,
@@ -14,3 +18,4 @@
     }
   ]
 }
+
